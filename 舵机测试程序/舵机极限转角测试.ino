@@ -11,6 +11,7 @@ const int lowlimit = 1000;    //单位：us   1ms
 const int highlimit = 2000;		//2ms
 
 
+
 void setup()
 {
 	
